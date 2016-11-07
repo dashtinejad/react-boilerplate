@@ -11,7 +11,7 @@ It also use [Browsersync](https://www.browsersync.io/) for serving your html fil
 
 ## Install
 
-1. Get it the sourcecode:
+1. Get the sourcecode:
     ```
     $ git clone https://github.com/dashtinejad/react-boilerplate.git
     ```
@@ -23,7 +23,7 @@ It also use [Browsersync](https://www.browsersync.io/) for serving your html fil
 
 3. Run `npm start` command, it will install dependencies and run the server:
     ```
-    $ npm install
+    $ npm start
     ```
 
     ![](http://sk.uploads.im/ANCfy.png)
