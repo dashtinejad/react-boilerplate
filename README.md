@@ -21,14 +21,16 @@ It also use [Browsersync](https://www.browsersync.io/) for serving your html fil
     $ cd react-boilerplate
     ```
 
-3. Run `npm start` command, it will install dependencies and run the server:
+3. Run `npm install` command, it will install dependencies:
     ```
-    $ npm start
+    $ npm install
     ```
+
+4. Run `npm start` command, it will run the server for you:
 
     ![](http://sk.uploads.im/ANCfy.png)
 
-4. Now you can browse your site through this address:
+5. Now you can browse your site through this address:
     ```
     http://localhost:10637/
     ```
