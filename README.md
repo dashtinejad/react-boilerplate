@@ -27,6 +27,9 @@ It also use [Browsersync](https://www.browsersync.io/) for serving your html fil
     ```
 
 4. Run `npm start` command, it will run the server for you:
+    ```
+    $ npm start
+    ```
 
     ![](http://sk.uploads.im/ANCfy.png)
 
