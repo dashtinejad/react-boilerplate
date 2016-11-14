@@ -7,7 +7,6 @@ import webpackConfig from './webpack.config.babel';
 const paths = {
     allSrcJs: 'src/**/*.js?(x)',
     clientEntryPoint: 'src/app.jsx',
-    webpackFile: 'webpack.config.babel.js',
     distDir: 'wwwroot/dist',
 };
 
