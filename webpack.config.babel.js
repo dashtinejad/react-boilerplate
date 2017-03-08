@@ -2,7 +2,9 @@ export default {
   output: {
     filename: 'bundle.js',
   },
+
   devtool: 'source-map',
+
   module: {
     loaders: [
       {
@@ -12,7 +14,13 @@ export default {
       },
     ],
   },
+  
   resolve: {
     extensions: ['', '.js', '.jsx'],
+  },
+
+  externals: {
+    'react': 'React',
+    'react-dom': 'ReactDOM',
   },
 };
